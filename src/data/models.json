@@ -1,0 +1,14 @@
+[
+  {
+    "id": "3d_PWM2Voltaje",
+    "name": {
+      "en": "3D PWM to Voltage Converter",
+      "zh_TW": "3D脈寬調變轉電壓轉換器"
+    },
+    "description": {
+      "en": "A 3D model of a PWM to Voltage Converter.",
+      "zh_TW": "一個脈寬調變轉電壓轉換器的3D模型。"
+    },
+    "path": "/mesh/3d_PWM2Voltaje.stl"
+  }
+]
