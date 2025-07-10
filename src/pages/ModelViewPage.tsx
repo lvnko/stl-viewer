@@ -15,7 +15,7 @@ export default function ModelViewPage() {
   return (
     <div className="p-4">
       <h2 className="text-2xl font-bold mb-4">{model.name[language]}</h2>
-      <p className="mb-4">{model.description[language]}</p>
+      <p className="mb-4">{model.description[language]}</p> 
       <ModelViewer path={model.path} />
     </div>
   );
